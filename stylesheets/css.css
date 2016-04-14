@@ -3,7 +3,7 @@
 body{ background:url(../img/bj1.png); width:100%;}
 #wrap{width:1003px; margin:0 auto;}
 
-a{text-decoration:none; font-size:12px;} 
+a{text-decoration:none; font-size:12px;}
 a:hover{color:#BA2636;text-decoration:none;}
 
 .top{ background:url(../img/top.png); width:100%; height:52px; margin:0px auto;}
@@ -93,7 +93,7 @@ a:hover{color:#BA2636;text-decoration:none;}
 .abouttext-img{width:90%; margin:10px auto; text-align:center;}
 .text p{ text-align:left;}
 .abouttext-img img{ margin:10px auto;}
- 
+
 .pic-left{ width:25%; float:left; margin-top:20px;}
 .pic-right{ width:70%; float:right; }
 .pic-left p{ font-size:16px; background:#333; width:100%; height:50px; color:#fff; text-align:center; line-height:50px;}
